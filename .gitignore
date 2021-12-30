@@ -13,4 +13,8 @@ main.hex
 *.rst
 *.sym
 
-Debug
+Debug/
+Release/
+build/
+
+.settings/language.settings.xml
